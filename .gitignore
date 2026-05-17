@@ -104,3 +104,12 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+/[Pp]rojectname/[尝尝]
+/[Pp]rojectname/[尝尝]
+CoreBreach_Project/Library/
+CoreBreach_Project/Temp/
+CoreBreach_Project/Logs/
+CoreBreach_Project/UserSettings/
+CoreBreach_Project/Build/
+CoreBreach_Project/Builds/
+CoreBreach_Project/obj/
